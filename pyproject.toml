@@ -1,0 +1,23 @@
+[project]
+name = "hello-world-gemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.9.0",
+    "flake8>=7.3.0",
+    "pre-commit>=4.3.0",
+    "pytest>=8.4.2",
+    "rich>=14.1.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "."
+]
+
+[tool.uv.workspace]
+members = [
+    "python-calculator",
+]

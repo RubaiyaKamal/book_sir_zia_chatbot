@@ -1,0 +1,1 @@
+Based on the information I found, Google's Gemini 3.0 is expected to be released in 2025. Some reports suggest a launch window around October or November of 2025.

@@ -1,0 +1,15 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "mcpServers": {
+    "github": {     
+      "httpUrl": "https://api.githubcopilot.com/mcp/",
+      "headers": {
+                "Authorization": ""      },
+      "timeout": 5000
+    }
+  }
+}

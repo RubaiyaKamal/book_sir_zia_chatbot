@@ -1,0 +1,17 @@
+{
+     "security": {
+       "auth": {
+         "selectedType": "token",
+         "token": "AIzaSyA6271RJ7zwaEWJId_G1IGm7_WadF3NA58"
+       }
+     },
+     "mcpServers": {
+       "github": {
+         "url": "https://api.github.com/mcp/",
+         "headers": {
+           "Authorization": "ghp_z1y3vssU0uxqWh33AmDCAuZWCAA4v2ig0bH"
+         },
+         "timeout": 5000
+       }
+     }
+   }
